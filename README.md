@@ -42,7 +42,7 @@ The interactive Power BI dashboard uncovers key patterns behind customer retenti
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview]("C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-09-23 011843.png"https://github.com/Pritpatel0712/Bank-Customer-Churn-Data-Analysis/blob/main/Bank%20Customer%20Churn%20Data%20Analysis.pdf)
+![Dashboard Preview](https://github.com/Pritpatel0712/Bank-Customer-Churn-Data-Analysis/blob/main/Bank%20Customer%20Churn%20Data%20Analysis.pdf)
 
 👉 [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjcwNDQyYjYtMWYyNi00YjE4LThhMTMtYWEzYjFjN2E1OGNkIiwidCI6ImJkMDA2MmM4LTk0M2MtNDhkNS1hNGNkLTkwMjFlMDliN2JkNSJ9))  
 
