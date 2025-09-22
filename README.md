@@ -42,7 +42,7 @@ The interactive Power BI dashboard uncovers key patterns behind customer retenti
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview](images/dashboard.png)  
+![Dashboard Preview]("C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-09-23 011843.png")  
 
 👉 [Click here to view the interactive dashboard](https://your-dashboard-link.com)  
 
